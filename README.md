@@ -1,1 +1,1 @@
-# MSIC-Benchmark
+![Teaser image](./Figures/logo.png)
